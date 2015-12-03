@@ -157,6 +157,7 @@ div#menuRight {
 
 #menuRight li a {
 	text-decoration: none;
+	color: #fff;
 }
 
 #menuRight li a:hover {
@@ -167,7 +168,7 @@ div#menuRight {
 /* SITE STYLES */
 
 a, a:link, a:active, a:visited {
-	color: #000000;
+	color: #777;
 	text-decoration: underline;
 }
 
@@ -180,8 +181,6 @@ h1, h2, h3, h4 {
 	letter-spacing: 1px;
 }
 
-
-
 img {
 	border: 0;
 }
@@ -190,6 +189,8 @@ p {
 	margin: 10px 0;
 	color: #777;
 }
+
+
 
 .divider {
 	background: url(pkdata/divider.png);
